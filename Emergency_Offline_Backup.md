@@ -7,6 +7,7 @@ Keep it as a cold backup and deploy only if GitHub or other central systems are 
 # Emergency Offline Mirror
 
 SHTF.rar (“The Crux Lady in the Woods Edition”) is a cold offline mirror of the current public repository plus a few additional items you will need like metamath.mm
+It is pending draft review so check back soon.
 
 It is designed to run on older systems in the likely event that SHTF and once unpacked could and should be burned to disk! Its ready to go with an autoload.inf for older CD drives.
 
