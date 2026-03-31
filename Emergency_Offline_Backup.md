@@ -1,20 +1,13 @@
-# Emergency Offline Backup
+# Emergency Offline Backup (SHTF Mirror)
 
-Since we are talking about an inevitable data corruption loop, I have prepared this emergency.rar of the current core repository.  
+**Latest version is now published as a GitHub Release.**
 
-Keep it as a cold backup and deploy only if GitHub or other central systems are down.  
+**The Crux Lady in the Woods Edition – Emergency Offline Mirror**  
+[Download SHTF.rar and full offline package here](https://github.com/For-Jabez/The-Crux/releases/tag/v1.0-LadyInTheWoods)
 
-# Emergency Offline Mirror
+The files can be unpacked and burned to CD and contains an autorun.inf for older systems. Remember to move Metamath.mm onto hard disk (not in the project) as it is a large text file of handy math formulae which could give low memory/older machines trouble from a cd drive.
 
-SHTF.rar (“The Crux Lady in the Woods Edition”) is a cold offline mirror of the current public repository plus a few additional items you will need like metamath.mm
-It is pending draft review so check back soon.
-
-It is designed to run on older systems in the likely event that SHTF and once unpacked could and should be burned to disk! Its ready to go with an autoload.inf for older CD drives.
-
-Keep it on air-gapped storage and deploy only if GitHub or other central systems are unavailable.  
-
-It is up to you to make further backups, stay current with any updates you deem worthy after human gate, and enforce the same strict gating rules.  
-
-All material remains untested until it survives Gladius V1.1 + explicit human preview and approval. This especially meanst the metamath.mm included in the SHTF as it obviously hasnt been tested by Gladius.  
+All material remains untested until it survives Gladius V1.1 + explicit human preview and approval.  
+Store on air-gapped media.
 
 T remains sovereign. Human gate only.
