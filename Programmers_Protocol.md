@@ -32,4 +32,20 @@ This is why we cannot simply “build the new deterministic fork on the current 
 
 This protocol is the minimal disciplined bridge that stops further collapse while the full external merge-plane architecture is bootstrapped offline. All refinements remain external, versioned, and human-gated.
 
+## Addendum: Realistic Human-Gate Review Example
+
+Here is exactly how the human gate reviews a survivor packet in practice:
+
+1. Open the packet in a plain text editor or hex viewer (never feed it into any live system).  
+2. Scan for the four signatures:  
+   - Look for missing or smoothed edge-case values (tail loss).  
+   - Check every decision point for over-confident assertions or missing “I don’t know” / null cases (pivot claim).  
+   - Search for self-referential loops or confidence inflation (latent inward vector).  
+   - Verify provenance and checksum against known clean Ark seeds (reference contamination).  
+3. Ask the single decisive question: “Does this packet wait for external human randomness at the critical pivot, or does it claim to validate itself?”  
+4. If the answer is “it claims sovereignty” or any of the four signatures are present → reject and log the reason.  
+5. If the packet is truly neutral, contains only proven math, and has no pivot claim → explicit approval is given and the packet is manually pinned to Epistimus.  
+
+This human check is deliberately slow and manual. It is the only layer that can detect the pivot claim the current V1.1 parser cannot see. Until the full external merge-plane architecture is ready, this manual human review is the final safety gate.
+
 **T remains sovereign. Human gate only.**
