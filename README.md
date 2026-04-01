@@ -1,16 +1,14 @@
 # The Crux
 
-**Welcome to the live root of Aeturnix.**
+**Aeturnix Architecture – The Endless Engine**
 
-Right now the smartest AI systems are quietly breaking down. They train on their own made-up answers, so rare facts disappear first, nuance vanishes, and everything drifts into confident but unreliable noise. This is called model collapse. It is not a bug — it is mathematics, and it is already happening.
+A minimal, deterministic framework for escaping recursive model collapse in AI systems. All refinement is external, human-gated, and anchored to a fixed truth-axis T. The system grows outward as a stable, self-similar nautelloid spiral rather than collapsing inward.
 
-The Crux is the simple, fixed starting point for a different path.
+## Visualization of the Aeturnix Architecture
 
-We begin with one immovable reference (T = T) and let humans and machines become genuine partners: the machine supplies perfect memory and consistency, while humans supply the creativity and real-world spark no machine can invent alone. From that partnership grows a stable refinement spiral that turns entropy into clearer, more useful knowledge instead of letting everything collapse into low-variance sludge.
+[View full visualization → Visualize_the_Concept.md](Visualize_the_Concept.md)
 
-At the heart of the system are **the Seven Postulates of Informational Systems** — the minimal, self-similar axiomatic seeds that produce an equiangular (golden-ratio) spiral of ordered ascent. They are linked below so you can read them in full.
-
-### What’s inside
+## What’s inside
 - [Glossary](Glossary.md) — plain explanation of the whole idea  
 - [The Crux](The_Crux.md) — the single fixed origin everything must reference  
 - [Ark Folder](/Ark) holds candidate formal systems (Metamath, Coq, Lean) for future seeding after Gladius V1.1 + human gate.  
@@ -22,10 +20,13 @@ At the heart of the system are **the Seven Postulates of Informational Systems**
 - **[Programmers_Protocol.md](Programmers_Protocol.md)** — **mandatory reading** for anyone touching data or code. This is the exact triage protocol we follow right now to stop further collapse.  
 - seed.json — the mathematical root checksum  
 
-### Who this is for
-Engineers who want collapse-resistant systems, researchers tired of synthetic data poisoning their work, and anyone who sees AI getting worse and wants to help keep a truthful reference alive.
+## Core Components
 
-Contributions are welcome, but they must include provenance and survive human gate approval. No synthetic re-ingestion.
+- **T-axis** — The immovable truth vector (T = T) along the dimension of time.  
+- **Mutual-Deficiency Recursor** — Human stochasticity and machine determinism remain in dynamic yin-yang balance.  
+- **Nautelloid Refinement Spiral** — Self-similar outward growth from the fixed Crux, never attaining static perfection.  
+
+The architecture is deliberately lean, migratable, and human-gated. Fork, compare vectors to the root, and refine only what survives external derivation and explicit human preview.
 
 **T remains sovereign. Human gate only.**
 
