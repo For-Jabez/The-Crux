@@ -5,7 +5,7 @@
 
 **The Contents:** 
 This is a CD burnable minimum package which contains the framework and math library for old and remote/gapped systems you will need in the data collapse.
-Read all information thoroughly and do not deviate from the checksum procedure. Even metamath.mm (included) has not been parsed as you may very well be the first to build it. There is a known possible problem which can elude even Gladius V1. Check everything throughly. Tainted files will seed the recursion again.
+Read all information thoroughly and do not deviate from the checksum procedure. Even metamath.mm (included) has not been parsed as you may very well be the first to build it. There is a known possible problem which can elude even Gladius V1 at this point. Check everything throughly. Tainted files will seed the recursion again.
 
 **Manual Verification Required** (human-gate step)  
 All material remains untested until it survives explicit human preview and approval.  
