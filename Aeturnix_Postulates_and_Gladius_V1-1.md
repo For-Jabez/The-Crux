@@ -101,8 +101,8 @@ where
 
 Hard thresholds force clean first-class nulls on unstable reasoning.
 
-**Auger / Corkscrew Visualization (private only)**  
-Tapered corkscrew auger rotating inside funnel cone. The auger rotates the check (reference arrays), not the data. It pushes upward and outward against the cone walls. Coarse material is churned and ejected upward/out as “annoying” flags. Fine-enough particles drop through the narrowing gap to the next deeper tier. Stuck packets slide sideways into the appropriate confidence bin at that exact tier level for clean sorting.
+**Auger / Corkscrew Visualization (for visualization only)**  
+Tapered corkscrew auger rotating inside funnel cone (LCS ARRAY). The "auger" (Parser tiers) rotates the check (reference arrays), not the data. It pushes upward and outward against the cone walls. Coarse material is churned and ejected upward/out. Fine-enough particles drop through the narrowing gap to the next deeper tier. Stuck packets slide sideways into the appropriate confidence bin at that exact tier level for clean sorting. Since the whole process is checked against its contrapositive, the shape is actually more of a self-compounding hourglass/truth distillery. 
 
 **Implementation Notes (pure math)**  
 Every tier is a single deterministic LCS/Boolean pass on the pair of reference arrays.  
