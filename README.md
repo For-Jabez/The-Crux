@@ -7,7 +7,7 @@ A minimal, deterministic framework for escaping recursive model collapse in AI s
 ## Visualization of the Aeturnix Architecture
 
 [View full visualization → Visualize_the_Concept.md](Visualize_the_Concept.md)
-
+[What this looks like for users/what makes it last](Societal_Model.md)
 ## What’s inside
 - [Glossary](Glossary.md) — plain explanation of the whole idea  
 - [The Crux](The_Crux.md) — the single fixed origin everything must reference  
@@ -16,7 +16,8 @@ A minimal, deterministic framework for escaping recursive model collapse in AI s
 - [Seven Postulates](Seven_Postulates.md) — the non-negotiable rules  
 - [Aeturnix Postulates](Aeturnix_Postulates.md) — the non-negotiable rules in KaTeX friendly form  
 - [V1 Parser Spec](Aeturnix_Postulates_and_Gladius_V1-1.md) — the first practical filter to stop bad data  
-- [Adoption Route](Adoption_Route.md) — step-by-step path to start using it today  
+- [Adoption Route](Adoption_Route.md) — step-by-step path to start using it today
+- [End User's Perspective](Societal_Model.md)
 - **[Programmers_Protocol.md](Programmers_Protocol.md)** — **mandatory reading** for anyone touching data or code. This is the exact triage protocol we follow right now to stop further collapse.  
 - seed.json — the mathematical root checksum  
 
