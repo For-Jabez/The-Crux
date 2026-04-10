@@ -43,4 +43,4 @@ Because Aeturnix is deliberately built to avoid the failure modes that doom most
 
 Adoption will not be instant. It begins with those who value reliability over hype, and spreads as the weaknesses of alternative approaches become harder to ignore.
 
-The system does not need to dominate quickly. It only needs to remain true to its principles while remaining useful. Over time, usefulness grounded in truth has a way of persisting.
+The system does not need to dominate quickly, or dominate at all in the forceful sense. It is completely elective to participants and only needs to remain true to its principles while remaining useful. Over time, usefulness grounded in truth has a way of persisting and compounding.
