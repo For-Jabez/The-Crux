@@ -8,7 +8,7 @@ At the center is an immutable reference point — a fixed T-axis that cannot be 
 Human-Gated Refinement
 Changes and expansions are not automatic. They require deliberate human review. This prevents runaway recursion and synthetic data loops that inevitably degrade quality.
 Dynamic Regeneration
-The system is built to heal. Even if parts are distorted or removed, accurate knowledge and coherent reasoning can grow back around the damage.
+The system is built to heal. Even if parts are distorted or removed, accurate knowledge and coherent reasoning can grow back around the damage. This makes it resillient and realistically accomodating to the passing fads and whims and manias that litter history.
 **Minimal Pain of Change**
 Improvements are made carefully and incrementally. The goal is maximum benefit with the least disruption.
 Transparency by Default
