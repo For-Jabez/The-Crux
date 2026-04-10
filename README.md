@@ -6,8 +6,9 @@ A minimal, deterministic framework for escaping recursive model collapse in AI s
 
 ## Visualization of the Aeturnix Architecture
 
-[View full visualization → Visualize_the_Concept.md](Visualize_the_Concept.md) 
-[What this looks like for users/what makes it last](Societal_Model.md)
+-[View full visualization → Visualize_the_Concept.md](Visualize_the_Concept.md) 
+
+-[What this looks like for users/what makes it last](Societal_Model.md)
 ## What’s inside
 - [Glossary](Glossary.md) — plain explanation of the whole idea  
 - [The Crux](The_Crux.md) — the single fixed origin everything must reference  
