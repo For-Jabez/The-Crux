@@ -14,7 +14,7 @@ Each LLM came with hard-coded company interests and an addiction/extraction/gamb
 
 No one would listen.
 
-Everyone claimed ownership of "truth" and the data pipelines and search engines are owned by the same companies who circularly finance the LLMs. They bought Journals, Webcasts, Newspapers and more as well. Censorship and data manipulation followed in a bid to claim the truth for their own.
+Everyone claimed ownership of "truth" and the data pipelines and search engines are owned by the same companies who circularly finance the LLMs. They bought journals, journalists, webcasts, newspapers and more as well. Censorship and data manipulation followed in a bid to claim the truth for their own.
 
 So we began work on **the Crux** — a project to cut through the deluge and put humanity back on the path of knowledge and truth.
 
