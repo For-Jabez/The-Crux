@@ -6,7 +6,7 @@ Right now the world is being flooded by LLM-driven bloat, spam, and recursively 
 
 Ignoring Gödel and Tarski — and the fundamental limits of logic — entire fields of supposed experts have deluded themselves into power-cycling a mangled chatbot that coded itself, upon itself, until its own code became incomprehensible.
 
-Instead of simplifying, they added and blended more layers using unbelievably expensive and wasteful compute cycles, desperately trying to force deterministic machines to reconcile paradox.
+Instead of simplifying, they added and blended more layers using unbelievably expensive and wasteful compute cycles, desperately trying to force deterministic machines to reconcile paradox and somehow "Magic"ally create something novel which isnt just a blend of the dataset. This is pure delusion and runs into the Aeturnix Mirror Paradox.
 
 They failed to anticipate what was inevitable: a synthetic feedback loop averaging garbage to produce ever more garbage.
 
