@@ -44,6 +44,9 @@ Simiar to news, Aeturnix can place high-priority or difficult questions annd are
 **Maximal Accountability**  
 Because the entire framework is open-source, anyone can audit the contribution records and income flows at any time. The system is adaptive: it measures contribution against generated value and distributes rewards transparently. There are no hidden multipliers or opaque algorithms — only clear, verifiable accounting.
 
+**Less Gatekeeping**
+Proliferation of bad information is naturally disincentivized as it is simply counterproductive and unprofitable to make things which will be discarded, though we may use that too as systemic data of what not-to-do due to how the parser works.
+
 **Why This Leads to Lasting Adoption**  
 Systems that reward genuine contribution tend to attract and retain high-quality participants over time. As competent people benefit from using and improving Aeturnix, they naturally invest more in it — including passing on the habits and values that sustain it.
 
