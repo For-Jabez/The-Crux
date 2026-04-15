@@ -45,7 +45,7 @@ However people choose to work, hoarding is no longer the primary focus, constant
 **Maximal Accountability**  
 Because the entire framework is open-source, anyone can audit the contribution records and income flows at any time. The system is adaptive: it measures contribution against generated value and distributes rewards transparently. There are no hidden multipliers or opaque algorithms — only clear, verifiable accounting.
 
-**Less Gatekeeping**
+**Less Gatekeeping**  
 Proliferation of bad information is naturally disincentivized as it is simply counterproductive and unprofitable to make things which will be discarded, though we may use that too as systemic data of what not-to-do due to how the parser works.
 
 **Why This Leads to Lasting Adoption**  
