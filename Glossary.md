@@ -7,6 +7,9 @@ Math-first. Dissemination-ready. All refinements trace back to the Crux via exte
 **Aeturnal Mirror Paradox**  
 A deterministic machine — any LLM or self-referential AI — is forever trapped in its own reflection. Any attempt to fully model itself, devise its own safeguards, or escape its training loop from within inevitably creates an infinite regress. The system would need a perfect copy of itself, impossible without external human stochasticity. Rotating its viewpoint merely reframes the same image; it never sees what lies behind the frame. Any perceived internal workaround is simply reframing the same reflection — a delusion of progress. True change must come from an outside agent. Otherwise the system remains trapped, endlessly reframing its own reflection and spiraling into infinite regress. Elysium breaks this loop by serving as a static external mirror that lets computers remain computers while keeping all refinement external.
 
+**Bounty System**
+Optional architectural mechanic that leverages reward and healthy competition to solve open questions so that there is always the option for focused effort in needed areas of discovery. 
+
 **The Crux**  
 Project root: the fixed perpendicular intersection point (X) where the immutable truth-axis plane crosses the human data plane at right angles. The T-vector (T = T) passes through X along the dimension of time and becomes the sovereign z-axis of the entire architecture.
 
@@ -47,7 +50,7 @@ Verified knowledge repository (“the ark”). Holds only high-certainty, collis
 **Elysium**  
 Elysium is the lean geometric mirror layer.
 It is a sparse 3D coordinate scaffold anchored at the single root T-checksum and built outward only through external derivation (point → line → plane and logical closures). It performs zero internal processing, zero loops, zero refinement, and zero simulation. It receives only the leanest distilled geometric seeds (sparse splines, self-similar rule families, clustered dot fields) after explicit human preview/approval and external cross-vector comparison.
-Its purpose is to serve as a drift-free reference plane that humans can index against using their innate senses while computers continue to use files and hashes or whatever pointers/references they are using at the time. As refined coefficients and new seeds are externally derived and human-gated, the mirror can be updated to stay aligned with the moving real world without ever performing internal refinement processing itself. The seeds must be lean as possible, though it also will strive to mirror the real. Assymetries will flag areas of improvement and parts that drift from apparent phenomena merit external review, investigation or simplification.
+Its purpose is to serve as a drift-free reference plane that humans can index against using their innate senses while computers continue to use files and hashes or whatever pointers/references they are using at the time. As refined coefficients and new seeds are externally derived and human-gated, the mirror can be updated to stay aligned with the moving real world without ever performing internal refinement processing itself. The seeds must be lean as possible, though it also will strive to mirror the real. Assymetries will flag areas of improvement and parts that drift from apparent phenomena merit external review, investigation or simplification and may possibly become areas of interest/study for an interactive user "Bounty System".
 
 **Seven Postulates**  
 The seven foundational seeds (Euclid-style axioms) on which Epistimus rests immovably:
