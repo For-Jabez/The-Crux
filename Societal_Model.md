@@ -15,7 +15,7 @@ Changes and expansions are not automatic. They require deliberate human review. 
 **Dynamic Regeneration**  
 The system is built to heal. Even if parts are distorted or removed, accurate knowledge and coherent reasoning can grow back around the damage. This makes it resillient and realistically accomodating to the passing fads, whims and manias that litter history.
 
-**Dynamic Linneage Distribution**
+**Dynamic Linneage Distribution**  
 Robust, transparent attribution/contribution systems allow the spirit of existing copyrights to be fully realized and auto-distributed through generations, both keeping incinteves for future generaltional wellbeing while ending isolative, compartmentalized hoarding In steps that encourace participation rather than seperation of classes.
 
 **Minimal Pain of Change**  
@@ -35,12 +35,13 @@ This works in the same open, auditable way that:
 - Creators earn royalties on platforms like YouTube,
 - Scientists receive attribution and recognition in academic journals.
 
-**Dynamic news** 
+**Dynamic news**
 Developments are dynamic, accuracy rewarded.
 
-**Bounty system**
+**Bounty system**  
 Simiar to news, Aeturnix can place high-priority or difficult questions annd areas of forefront study for solved rewards, uniting mankind in healthy competition enabling them to work however they are comfortable, publishing when they are stuck (for assured reward if used) or continuing to the finish linem solo or team. However people work, hoarding is no longer the primary focus, nagging at your thought process while you are trying to focus on innovative discovery.
 
+**Maximal Accountability**  
 Because the entire framework is open-source, anyone can audit the contribution records and income flows at any time. The system is adaptive: it measures contribution against generated value and distributes rewards transparently. There are no hidden multipliers or opaque algorithms — only clear, verifiable accounting.
 
 **Why This Leads to Lasting Adoption**  
