@@ -39,7 +39,8 @@ This works in the same open, auditable way that:
 Developments are dynamic, accuracy rewarded. Any accurate and useful information is rewarded, true journalism will be revered again.
 
 **Bounty system**  
-Simiar to news, Aeturnix can place high-priority or difficult questions and areas of forefront study for solved rewards, uniting mankind in healthy competition enabling them to work however they are comfortable, publishing when they are stuck (for assured reward if used) or continuing to the finish linem solo or team. However people work, hoarding is no longer the primary focus, nagging at your thought process while you are trying to focus on innovative discovery. This is the opposite of doomscrolling.
+Similar to news, Aeturnix can place high-priority or difficult questions and areas of forefront study for solved rewards, uniting mankind in healthy competition. This enables people to work however they are most comfortable—publishing when they are stuck (for an assured reward if their contribution is used) or continuing to the finish line solo or as a team.
+However people choose to work, hoarding is no longer the primary focus, constantly nagging at your thought process while you’re trying to concentrate on innovative discovery. This is the opposite of doomscrolling. It channels apathy and disengagement into enthusiastic joy of discovery, reward, and purpose.
 
 **Maximal Accountability**  
 Because the entire framework is open-source, anyone can audit the contribution records and income flows at any time. The system is adaptive: it measures contribution against generated value and distributes rewards transparently. There are no hidden multipliers or opaque algorithms — only clear, verifiable accounting.
