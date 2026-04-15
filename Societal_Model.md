@@ -10,13 +10,13 @@ Most information systems fail over time because they optimize for speed, popular
 At the center is an immutable reference point — a fixed T-axis that cannot be overridden by scale, popularity, or convenience. All reasoning and growth must remain consistent with this anchor.
 
 **Human-Gated Refinement**  
-Changes and expansions are not automatic. They require deliberate human review. This prevents runaway recursion and synthetic data loops that inevitably degrade quality.
+Changes and expansions are not automatic; they require deliberate human review. This prevents runaway recursion and synthetic data loops that inevitably degrade quality.
 
 **Dynamic Regeneration**  
-The system is built to heal. Even if parts are distorted or removed, accurate knowledge and coherent reasoning can grow back around the damage. This makes it resillient and realistically accomodating to the passing fads, whims and manias that litter history.
+The system is built to heal. Even if parts are distorted or removed, accurate knowledge and coherent reasoning can grow back around the damage. This makes it resilient and realistically accommodating to the passing fads, whims, and manias that litter history.
 
-**Dynamic Linneage Distribution**  
-Robust, transparent attribution/contribution systems allow the spirit of existing copyrights to be fully realized and auto-distributed through generations, both keeping incinteves for future generaltional wellbeing while ending isolative, compartmentalized hoarding In steps that encourace participation rather than seperation of classes.
+**Dynamic Lineage Distribution**  
+Robust, transparent attribution and contribution systems allow the spirit of existing copyrights to be fully realized and automatically distributed through generations — keeping incentives for future generational well-being while ending isolative, compartmentalized hoarding in steps that encourage participation rather than separation of classes.
 
 **Minimal Pain of Change**  
 Improvements are made carefully and incrementally. The goal is maximum benefit with the least disruption.
@@ -35,26 +35,27 @@ This works in the same open, auditable way that:
 - Creators earn royalties on platforms like YouTube,
 - Scientists receive attribution and recognition in academic journals.
 
-**Dynamic news**  
-Developments are dynamic, accuracy rewarded. Any accurate and useful information is rewarded, true journalism will be revered again.
+**Dynamic News**  
+Developments are dynamic; accuracy is rewarded. Any accurate and useful information is rewarded — true journalism will be revered again.
 
-**Bounty system**  
-Similar to news, Aeturnix can place high-priority or difficult questions and areas of forefront study for solved rewards, uniting mankind in healthy competition. This enables people to work however they are most comfortable—publishing when they are stuck (for an assured reward if their contribution is used) or continuing to the finish line solo or as a team.
-However people choose to work, hoarding is no longer the primary focus, constantly nagging at your thought process while you’re trying to concentrate on innovative discovery. This is the opposite of doomscrolling. It channels apathy and disengagement into enthusiastic joy of discovery, reward, and purpose.
+**Bounty System**  
+Similar to news, Aeturnix can place high-priority or difficult questions and areas of forefront study for solved rewards, uniting humankind in healthy competition. This enables people to work however they are most comfortable — publishing when they are stuck (for an assured reward if their contribution is used) or continuing to the finish line solo or as a team.
+
+However people choose to work, hoarding is no longer the primary focus, constantly nagging at your thought process while you’re trying to concentrate on innovative discovery. This is the opposite of doomscrolling — it channels apathy and disengagement into enthusiastic joy of discovery, reward, and purpose.
 
 **Maximal Accountability**  
 Because the entire framework is open-source, anyone can audit the contribution records and income flows at any time. The system is adaptive: it measures contribution against generated value and distributes rewards transparently. There are no hidden multipliers or opaque algorithms — only clear, verifiable accounting.
 
 **Less Gatekeeping**  
-Proliferation of bad information is naturally disincentivized as it is simply counterproductive and unprofitable to make things which will be discarded, though we may use that too as systemic data of what not-to-do due to how the parser works.
+The proliferation of bad information is naturally disincentivized, as it is simply counterproductive and unprofitable to make things that will be discarded — though even those can serve as systemic data for what not to do, due to how the parser operates.
 
 **Why This Leads to Lasting Adoption**  
 Systems that reward genuine contribution tend to attract and retain high-quality participants over time. As competent people benefit from using and improving Aeturnix, they naturally invest more in it — including passing on the habits and values that sustain it.
 
 This creates a gentle but powerful refinement spiral: better contributors → stronger system → more capable contributors. Over generations, the system becomes more robust not through force or central control, but through aligned incentives and cumulative competence.
 
-Because Aeturnix is deliberately built to avoid the failure modes that doom most large information systems, it has a structural advantage in longevity. It does not promise miracles. It promises consistency, verifiability, and honest growth.
+Because Aeturnix is deliberately built to avoid the failure modes that doom most large information systems, it has a structural advantage in longevity. It does not promise miracles; it promises consistency, verifiability, and honest growth.
 
-Adoption will not be instant. It begins with those who value reliability over hype, and spreads as the weaknesses of alternative approaches become harder to ignore.
+Adoption will not be instant. It begins with those who value reliability over hype and spreads as the weaknesses of alternative approaches become harder to ignore.
 
-The system does not need to dominate quickly, or dominate at all in the forceful sense. It is completely elective to participants and only needs to remain true to its principles while remaining useful. Over time, usefulness grounded in truth has a way of persisting and compounding.
+The system does not need to dominate quickly or dominate at all in the forceful sense. It is completely elective to participants and only needs to remain true to its principles while remaining useful. Over time, usefulness grounded in truth has a way of persisting and compounding.
