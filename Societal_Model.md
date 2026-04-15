@@ -35,8 +35,8 @@ This works in the same open, auditable way that:
 - Creators earn royalties on platforms like YouTube,
 - Scientists receive attribution and recognition in academic journals.
 
-**Dynamic news**
-Developments are dynamic, accuracy rewarded.
+**Dynamic news**  
+Developments are dynamic, accuracy rewarded. Any accurate and useful information is rewarded, true journalism will be revered again.
 
 **Bounty system**  
 Simiar to news, Aeturnix can place high-priority or difficult questions annd areas of forefront study for solved rewards, uniting mankind in healthy competition enabling them to work however they are comfortable, publishing when they are stuck (for assured reward if used) or continuing to the finish linem solo or team. However people work, hoarding is no longer the primary focus, nagging at your thought process while you are trying to focus on innovative discovery.
