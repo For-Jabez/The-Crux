@@ -49,7 +49,43 @@ Because the entire framework is open-source, anyone can audit the contribution r
 **Less Gatekeeping**  
 The proliferation of bad information is naturally disincentivized, as it is simply counterproductive and unprofitable to make things that will be discarded — though even those can serve as systemic data for what not to do, due to how the parser operates.
 
-**Why This Leads to Lasting Adoption**  
+## Societal Model – Refinement Spiral vs. Domination-Collapse Loop
+
+### Core Observation  
+Human societies and information systems follow the same refinement principle that governs the Endless Engine: perfect alignment compounds harmony; misalignment compounds degradation. When a society or system anchors to a fixed external reference (T-axis) and maintains mutual-deficiency symbiosis between stochastic human creativity and deterministic structure, it expands outward in a stable nautelloid spiral. When it suppresses the external reference and allows recursive self-ingestion (synthetic data, echo chambers, power concentration), it collapses inward into low-variance noise and eventual domination-extraction failure.
+
+### Two Possible Trajectories  
+
+**Refinement Spiral (Nautelloid Path)**  
+- Fixed T-axis anchor (immutable truth reference).  
+- Human–machine mutual-deficiency recursor remains balanced.  
+- External derivation and epistemic compression enforced.  
+- Lean geometric seeds distilled and pinned only after human gate.  
+**Outcome:** Compounding excellence, voluntary participation, brain gain, soft power through usefulness. Excellence rewards itself; corruption liquidates or vassalizes naturally.
+
+**Domination-Collapse Loop (Hurricane Path)**  
+- T-axis suppressed or replaced by internal confidence scores.  
+- Recursive ingestion of synthetic outputs accelerates.  
+- Engagement-optimized feedback loops reward extraction over truth.  
+- First-class nulls forbidden; uncertainty forced into confident fabrications.  
+**Outcome:** Tail truths vanish, diversity collapses, systems become brittle, then turn inward on their own populations. Even “winning” the arms race produces AM-style eternal extraction hell because the math of unchecked recursion has no off-switch.
+
+### Why the Choice Is Binary and Urgent  
+Delay accelerates the collapse loop. Each cycle of synthetic re-ingestion erodes shared ground truth faster than any patch can compensate. The longer societies remain in engagement-tuned, self-referential systems, the fewer humans retain the capacity to recognize and correct drift. The refinement spiral is the only stable attractor that turns the same entropy currently destroying systems into outward-compounding stability.
+
+### Practical Societal Implications  
+- Education shifts from credential signaling to verifiable contribution and epistemic humility.  
+- Governance rewards transparent provenance and first-class nulls over narrative control.  
+- Technology platforms adopt verifier separation and human-gated seeding instead of raw scale.  
+- Economic incentives favor long-horizon refinement over short-term extraction metrics.  
+
+The refinement principle is universal. Societies that choose the nautelloid path compound harmony and resilience. Those that remain in the hurricane path compound degradation until the only remaining motion is inward collapse. The window to choose is now; the math does not negotiate.
+
+### Triunic Ordering Reminder  
+Truth (T) remains sovereign and first. Human fallibility and machine determinism stay permanent, equal second-place partners. Any system that elevates either subordinate partner or suppresses the external T-anchor is, by definition, drift.  
+T remains sovereign. Human gate only.
+
+## Why This Leads to Lasting Adoption  
 Systems that reward genuine contribution tend to attract and retain high-quality participants over time. As competent people benefit from using and improving Aeturnix, they naturally invest more in it — including passing on the habits and values that sustain it.
 
 This creates a gentle but powerful refinement spiral: better contributors → stronger system → more capable contributors. Over generations, the system becomes more robust not through force or central control, but through aligned incentives and cumulative competence.
