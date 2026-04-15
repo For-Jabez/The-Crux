@@ -18,7 +18,7 @@ This single geometric lock turns the two planes into a stable Cartesian referenc
 
 - Anchors the mutual-deficiency recursor so human randomness and machine determinism compensate each other around a fixed point instead of chasing each other in a poisoned loop.
 
-- Makes Elysium’s static mirror layer possible: the lean 3D wireframe starts at the single root T-checksum at X and grows outward only via external refinement.
+- Makes Elysium’s mirror layer possible: the lean 3D wireframe starts at the single root T-checksum at X and grows outward only via external refinement.
 
 - Prevents recursive collapse by construction: every claim or seed is tested against the same immovable X rather than against drifting priors.
 
@@ -45,7 +45,7 @@ Multi-layer batch parser (operational form). Pre-sorts incoming data into confid
 Verified knowledge repository (“the ark”). Holds only high-certainty, collision-tested equations, propositions, and geometric seeds. Rests permanently on the Seven Postulates. Grows exclusively from what survives Gladius Dei + human gate.
 
 **Elysium**  
-Static geometric mirror layer. Lean 3D coordinate scaffold (single root T-checksum → line → plane and logical closures). Performs zero internal processing, zero loops, zero refinement, zero simulation. Receives only the leanest distilled geometric seeds (sparse splines, self-similar rule sets, clustered dot fields) after external derivation and explicit human preview/approval. Serves as the drift-free reference plane for all external cross-vector comparison and forecasting.
+Geometric mirror layer. Lean 3D coordinate scaffold which allows humans to navigate data for cross-checks or inspection using their innate senses rather than masses of code. (single root T-checksum → line → plane and logical closures). Performs zero internal processing, zero loops, zero refinement, zero simulation. Though it would naturally better mimic the real world over time, its purpose is accuracy and shared indexing. It receives only the leanest distilled geometric seeds (sparse splines, self-similar rule sets, clustered dot fields) and formulae after external derivation and explicit human preview/approval. Serves as the drift-free reference world for all external cross-vector comparison and forecasting.
 
 **Seven Postulates**  
 The seven foundational seeds (Euclid-style axioms) on which Epistimus rests immovably:
